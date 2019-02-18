@@ -1,39 +1,30 @@
 /* mobile */
-.top-header{
+.top-header {
   display: flex;
-  flex-direction: row;
   max-height: 222px;
-  max-width: 400px
-}
-#top-logo{
-  display: flex;
+  max-width: 400px; }
+
+#top-logo {
   justify-content: center;
   height: 174px;
   width: 174px;
   margin-left: 50%;
-  margin-right: 50%;
-}
-#mini-menu{
-  display: flex;
+  margin-right: 50%; }
+
+#mini-menu {
   justify-content: flex-start;
   align-self: center;
-  max-height: 18px;
-  max-width: 24px;
-}
-.picture-display{
-  display: flex;
-  flex-direction: row;
-  width: 386px;
-  height: 186px;
-}
-.pizza-pics > img{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  max-width: 88px;
-  height: 88px;
-}
+  height: 18px;
+  width: 24px; }
 
+.picture-display {
+  width: 386px;
+  height: 186px; }
+
+.pizza-pics > img {
+  width: 88px;
+  height: 88px; }
 
 /* desktop */
+
+/*# sourceMappingURL=output.css.map */
