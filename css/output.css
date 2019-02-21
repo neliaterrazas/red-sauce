@@ -1,16 +1,15 @@
 /* mobile */
 .top-header {
   display: flex;
+  justify-content: space-around;
   max-height: 222px;
-  max-width: 400px;
+  max-width: 100%;
 }
 
 #top-logo {
   justify-content: center;
   height: 174px;
   width: 174px;
-  margin-left: 50%;
-  margin-right: 50%;
 }
 
 #mini-menu {
@@ -21,8 +20,18 @@
 }
 
 .picture-display {
-  width: 25%;
-  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  width: 12.5%;
+  height: 12.5%;
+}
+
+.middle {
+  display: flex;
+}
+
+.bottom-bar {
+  display: flex;
 }
 
 /* desktop */
