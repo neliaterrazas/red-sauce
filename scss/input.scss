@@ -7,7 +7,7 @@
 }
 #top-logo{
   justify-content: center;
-  height: 174px;
+  height: 100vw;
   width: 174px;
 
 }
@@ -19,15 +19,26 @@
 }
 .picture-display{
   display: flex;
-  justify-content: space-between;
-  width: 12.5%;
-  height: 12.5%;
+  justify-content: center;
+}
+.top-pizza-pics{
+  width: 25vw;
+  height: 25vw;
 }
 .middle{
   display: flex;
+  flex-direction: column;
 }
 .bottom-bar{
   display: flex;
+}
+#video{
+  height: 50vw;
+  width: 50vw;
+}
+#pup-pic{
+  height: 30vw;
+  width: 100vw;
 }
 
 /* desktop */
