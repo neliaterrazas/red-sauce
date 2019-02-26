@@ -6,58 +6,43 @@
 
 ### Description
 
-Write about what the project does, what inspired you, what its goals are, what issues you're trying to fix, or what concepts you're completing this project to learn in this section here.
+This project is to show my knowledge of flexbox and media queries.
 
-### Images
 
-Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
 
 #### Desktop Version
 
-![desktop user interface](link-to-screenshot-here)
+![desktop user interface](pics/desktop-1.png)
+![desktop user interface](pics/desktop-2.png)
 
 #### Mobile Version
 
-![mobile user interface](link-to-screenshot-here)
+![desktop user interface](pics/mobile-1.png)
+![desktop user interface](pics/mobile-2.png)
 
-### User Stories
 
-* We'll  
-* Learn
-* About
-* These
-* Monday
-* Night
 
 ### Technologies and Resources
 
-* List
-* What
-* Outside
-* Technologies
-* You've
-* Used
-* Here
+* Flexbox
+* HTML
+* CSS
 
 ### Responsiveness
 
-Describe how the site is responsive, and what different 'versions' this project includes (does it have a mobile version? tablet version? )
+There are two versions of the site: one for desktop and one for mobile.
 
 ### Setup Instructions
 
-Describe how someone can clone and launch this project.
+Download/Clone this repository at: https://github.com/neliaterrazas/red-sauce.git
+Open in your preferred text editor of browser.
 
 ### Roadmap
 
-Is there work you plan on continuing doing on this project? Features you'd like to add?
-
-* Consider
-* Listing
-* Them
-* Here
+* Futher polishing of mobile version.
 
 ### License
 
-Determine the license under which this application can be used.
+MIT License.
 
-Copyright (c) 2018 **_{ List of Contributors }_**
+Copyright (c) 2018 **_Nelia Terrazas_**
