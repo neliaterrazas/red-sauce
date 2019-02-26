@@ -62,13 +62,18 @@ body{
   justify-content: flex-start;
   align-items: flex-end;
   width: 70%;
-
+}
+#left-column > img{
+  width: 100%;
 }
 #right-column{
   justify-content: center;
   align-items: center;
   width: 30%;
   padding-left: 10vw;
+}
+#right-column > img{
+  width: 100%;
 }
 .bottom-bar{
   display: flex;

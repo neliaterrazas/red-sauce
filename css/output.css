@@ -56,11 +56,6 @@ body {
   height: 25vw;
 }
 
-.video {
-  padding-left: 10vw;
-  padding-right: 10vw;
-}
-
 .middle {
   display: flex;
   justify-content: space-around;
@@ -75,11 +70,19 @@ body {
   width: 70%;
 }
 
+#left-column > img {
+  width: 100%;
+}
+
 #right-column {
   justify-content: center;
   align-items: center;
   width: 30%;
   padding-left: 10vw;
+}
+
+#right-column > img {
+  width: 100%;
 }
 
 .bottom-bar {
